@@ -5,10 +5,10 @@ icon: plug
 author:
   name: Alex Käfer
   email: alex.kaefer@ui-designs.de
-homepage: https://github.com/alex/grav-plugin-admin-addon-media-sort
+homepage: https://github.com/alka-dev/grav-plugin-admin-addon-media-sort.git
 keywords: grav, plugin, admin, media
-bugs: https://github.com/alex/grav-plugin-admin-addon-media-sort/issues
-docs: https://github.com/alex/grav-plugin-admin-addon-media-sort/blob/develop/README.md
+bugs: https://github.com/alka-dev/grav-plugin-admin-addon-media-sort/issues
+docs: https://github.com/alka-dev/grav-plugin-admin-addon-media-sort/blob/master/README.md
 license: MIT
 
 form:
