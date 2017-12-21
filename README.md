@@ -31,7 +31,7 @@ You should now have all the plugin files under
 ### License
 The MIT License (MIT)
 
-Copyright (c) 2017 Dávid Szabó
+Copyright (c) 2017 Alex Käfer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
