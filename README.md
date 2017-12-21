@@ -1,6 +1,6 @@
 # Admin Addon Media Sort Plugin
 
-**This README.md file should be modified to describe the features, installation, configuration, and general usage of this plugin.**
+![grav-plugin-admin-addon-media-sort](https://user-images.githubusercontent.com/34755193/34277947-396734bc-e6a8-11e7-9548-2c51ae03dc72.jpg)
 
 The **Admin Addon Media Sort** Plugin is for [Grav CMS](http://github.com/getgrav/grav). A simple addon which adds the option to reorder media files in the admin panel per drag and drop.
                                                                                          
